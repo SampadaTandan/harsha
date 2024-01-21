@@ -3,3 +3,6 @@ askjdhaskjdh
 isOdd() {}
 
 isPrime() {}
+
+alina() { return 0 }
+
