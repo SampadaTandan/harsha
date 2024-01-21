@@ -1,4 +1,1 @@
 askjdhaskjdh
-asldjhaskjdhas
-
-is odd() {}
